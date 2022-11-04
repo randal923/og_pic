@@ -42,7 +42,7 @@ export default function Home() {
             width: "500px",
             height: "200px",
             display: "flex",
-            padding: "20px",
+            padding: "19px",
           }}
         >
           <img
@@ -57,7 +57,7 @@ export default function Home() {
             style={{
               display: "flex",
               flexDirection: "column",
-              marginLeft: "20px",
+              marginLeft: "21px",
             }}
           >
             <div style={{ display: "flex" }}>
